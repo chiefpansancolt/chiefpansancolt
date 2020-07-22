@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋 Hi, My Name is [Chris](http://chris-pezza.com), but you can call me [Chiefpansancolt](http://chiefpansancolt.live)
 
-<!--
-**chiefpansancolt/chiefpansancolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<samp>
+I am a developer of Ruby on Rails and Salesforce. 
 
-Here are some ideas to get you started:
+You can find my projects I have worked on my website or check out my persona website where I stream and make additional content on.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of development I stream and play video games on Twitch.tv/chiefpansancolt or spend time with my beautiful wife and daughter.
+
+You can also find me on [Twitter](https://twitter.com/chiefpansancolt).
+
+Hope you enjoyed and Thanks for stopping by!
+</samp>
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiefpansancolt&theme=tokyonight" alt="Christopher Pezza github top languages" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiefpansancolt&show_icons=true&theme=tokyonight&line_height=27&show_icons=true" alt="Christopher Pezza github stats" />
+  </a>
+</p>
+
+*NOTE: These statistics are generated with github-readme-stats and are just for fun.
