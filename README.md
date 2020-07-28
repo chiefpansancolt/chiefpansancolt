@@ -1,4 +1,4 @@
-# 👋 Hi, My Name is [Chris](http://chris-pezza.com), but you can call me [Chiefpansancolt](http://chiefpansancolt.live)
+# 👋 Hi, My Name is [Chris](https://chris-pezza.com), but you can call me [Chiefpansancolt](http://chiefpansancolt.live)
 
 <samp>
 I am a developer of Ruby on Rails and Salesforce. 
