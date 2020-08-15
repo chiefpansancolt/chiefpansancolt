@@ -14,13 +14,13 @@ Hope you enjoyed and Thanks for stopping by!
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chiefpansancolt&theme=tokyonight" alt="Christopher Pezza github top languages" />
+    <img align="center" src="https://github-readme-stats.chiefpansancolt.vercel.app/api/top-langs/?username=chiefpansancolt&theme=tokyonight" alt="Christopher Pezza github top languages" />
   </a>
 </p>
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chiefpansancolt&show_icons=true&theme=tokyonight&line_height=27&show_icons=true" alt="Christopher Pezza github stats" />
+    <img align="center" src="https://github-readme-stats.chiefpansancolt.vercel.app/api?username=chiefpansancolt&show_icons=true&theme=tokyonight&line_height=27&show_icons=true" alt="Christopher Pezza github stats" />
   </a>
 </p>
 
