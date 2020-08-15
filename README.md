@@ -34,10 +34,8 @@ Outside of development I stream and play video games on Twitch.tv/chiefpansancol
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.chiefpansancolt.vercel.app/api/top-langs/?username=chiefpansancolt&layout=compact&hide=html" alt="chiefpansancolt" />
-</p>
-<p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.chiefpansancolt.vercel.app/api/top-langs/?username=chiefpansancolt&layout=compact&hide=html" alt="chiefpansancolt" />
   &nbsp;
   <img align="center" src="https://github-readme-stats.chiefpansancolt.vercel.app/api?username=chiefpansancolt&show_icons=true" alt="chiefpansancolt" />
 </p>
