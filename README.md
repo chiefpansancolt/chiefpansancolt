@@ -3,9 +3,9 @@
 <samp>
 I am a developer of Ruby on Rails and Salesforce. 
 
-You can find my projects I have worked on my website or check out my persona website where I stream and make additional content on.
+You can find my projects I have worked on [my website](https://chris-pezza.com) or check out my [persona website](https://chiefpansancolt.live) where I stream and make additional content on.
 
-Outside of development I stream and play video games on Twitch.tv/chiefpansancolt or spend time with my beautiful wife and daughter.
+Outside of development I stream and play video games on [twitch.tv/chiefpansancolt](https://twitch.tv/chiefpansancolt) or spend time with my beautiful wife and daughter.
 </samp>
 
 <p align="left">
