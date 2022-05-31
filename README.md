@@ -1,40 +1,30 @@
-# 👋 Hi, My Name is [Chris](https://chris-pezza.com), but you can call me [Chiefpansancolt](http://chiefpansancolt.live)
+## Hey Nice to See You!
 
-<samp>
-I am a developer of Ruby on Rails and Salesforce. 
+I am Anirudh Emmadi, people call me Ani, currently pursuing my bachelor's degree majoring in computer science from [The Univesity of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-You can find my projects I have worked on [my website](https://chris-pezza.com) or check out my [persona website](https://chiefpansancolt.live) where I stream and make additional content on.
-
-Outside of development I stream and play video games on [twitch.tv/chiefpansancolt](https://twitch.tv/chiefpansancolt) or spend time with my beautiful wife and daughter.
-</samp>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.chiefpansancolt.vercel.app/api/top-langs/?username=chiefpansancolt&layout=compact&hide=html" alt="chiefpansancolt" />
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.chiefpansancolt.vercel.app/api?username=chiefpansancolt&show_icons=true" alt="chiefpansancolt" />
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-christopherpezza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pezzachristopher/)](https://www.linkedin.com/in/pezzachristopher/)
+[![Instagram Badge](https://img.shields.io/badge/-chiefpezza-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/chiefpezza/)](https://instagram.com/chiefpezza)
 
 
-<p align="center">
-  <a href="https://dev.to/chiefpansancolt" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chiefpansancolt" height="30" width="30" />
-  </a>
-  <a href="https://twitter.com/chiefpansancolt" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="chiefpansancolt" height="30" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/pezzachristopher" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pezzachristopher" height="30" width="30" />
-  </a>
-  <a href="https://fb.com/chiefpansancolt" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="chiefpansancolt" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/chiefpansancolt" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chiefpansancolt" height="30" width="30" />
-  </a>
-  <a href="https://medium.com/@chiefpansancolt" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@chiefpansancolt" height="30" width="30" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCDiSj1nIsOnMHo3IASiN-3w" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="chiefpansancolt" height="30" width="30" />
-  </a>
-</p>
+## ⚡ Technologies
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefpansancolt&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chiefpansancolt&layout=compact&langs_count=10)
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chiefpansancolt.chiefpansancolt)
