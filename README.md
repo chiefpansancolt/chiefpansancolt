@@ -2,9 +2,9 @@
 
 Hi My name is Chris Pezza or also known as Chiefpansancolt!
 
-You can find much of my available work here https://chiefpansancolt.dev
-I stream from time to time and you find those details here https://chiefpansancolt.live
-If you want to learn a bit about my background check me out here https://chrispezza.me
+You can find much of my available work here https://chiefpansancolt.dev<br/>
+I stream from time to time and you find those details here https://chiefpansancolt.live<br/>
+If you want to learn a bit about my background check me out here https://chrispezza.me<br/><br/><br/>
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/pBxGpfrmD4)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pezzachristopher/)
