@@ -2,7 +2,7 @@
 
 Hi My name is Chris Pezza or also known as Chiefpansancolt!
 
-I am a Senior Solutions Architect at @nCino in the Managed Services Team.
+I am a Senior Solutions Architect at [@nCino](https://www.ncino.com/) in the Managed Services Team.
 
 You can find much of my available work here https://chiefpansancolt.dev<br/>
 I stream from time to time and you find those details here https://chiefpansancolt.live<br/>
