@@ -172,7 +172,7 @@ If you want to learn a bit about my background check me out here https://chrispe
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefpansancolt&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chiefpansancolt&layout=compact&langs_count=10)
 
 
