@@ -172,8 +172,8 @@ If you want to learn a bit about my background check me out here https://chrispe
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 </details>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiefpansancolt&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=chiefpansancolt&layout=compact&langs_count=10)
+![GitHub stats](https://github-readme-stats-chiefpansancolt.vercel.app/api?username=chiefpansancolt&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-chiefpansancolt.vercel.app/api/top-langs?username=chiefpansancolt&layout=compact&langs_count=10)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=chiefpansancolt.chiefpansancolt)
